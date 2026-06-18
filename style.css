@@ -22,7 +22,7 @@ body {
 
   overflow-x: hidden;
 
-  background: url(../bg/bg.jpg) no-repeat center center fixed;
+  background: url(bg.jpg) no-repeat center center fixed;
   background-color: rgb(230, 240, 250);
   background-size: cover;
 
@@ -119,7 +119,7 @@ div.picture1 {
   width: 100%;
   height: 350px;
 
-  background-image: url(../img/hrusky.jpg);
+  background-image: url(foto1.jpg);
   background-size: cover;
   background-position: center;
 
@@ -132,7 +132,7 @@ div.picture2 {
 
   display: block;
 
-  background-image: url(../img/hrusky2.jpg);
+  background-image: url(foto2.jpg);
   background-size: cover;
   background-position: center;
 
